@@ -18,6 +18,7 @@ h1, h2, h3, h4, h5 {
   position:fixed;
   top:0;
   left:0;
+  z-index:200;
     img{
       padding:5px 5px 5px 20px;
       float:left;
@@ -42,13 +43,21 @@ h1, h2, h3, h4, h5 {
       padding-left:10px;
     }
 }/*fim topo*/
+.escurecer{
+  width:100%;
+  height:100%;
+  background-color:rgba(0,0,0,0.2);
+  z-index:800;
+  display:block;
+}
 .menu{
   width:40%;
   height:100%;
   position:fixed;
   top:0;
-  right:0;
+  right:-1000px;
   background-color:@colorBlue;
+  z-index:900;
     .topo-menu{
       width:100%;
       height:60px;
@@ -59,7 +68,7 @@ h1, h2, h3, h4, h5 {
         font-weight:300;
         position:fixed;
         top:10px;
-        right:30px;
+        right:-1000px;
         &:hover{
           i{
             color:@colorLightGray;
@@ -92,11 +101,56 @@ h1, h2, h3, h4, h5 {
         }
     }
 }/*fim menu*/
-.menu-active{
+.menuactive{
+  .transicaoMenu();
+  width:40%;
+  height:100%;
+  position:fixed;
+  top:0;
   right:0;
-    .topo-menu{
-      a{
-        right:30px;
+  background-color:@colorBlue;
+  z-index:900;
+  .topo-menu{
+    width:100%;
+    height:60px;
+    a{
+      .transicaoMenu();
+      color:#fff;
+      text-decoration:none;
+      font-size:1.5em;
+      font-weight:300;
+      position:fixed;
+      top:10px;
+      right:30px;
+      &:hover{
+        i{
+          color:@colorLightGray;
+        }
       }
     }
+    i{
+      padding-left:10px;
+    }
+  }/*fim topo menu*/
+  .menu-itens{
+    width:100%;
+    height:auto;
+      a{
+        .transicaoLink();
+        width:100%;
+        display:inline-grid;
+        text-align:center;
+        color:#fff;
+        text-decoration:none;
+        font-weight:300;
+        font-size:1.1em;
+        padding-top:10px;
+        padding-bottom:10px;
+          &:hover{
+            .transicaoLink();
+            color:@colorBlue;
+            background-color:#fff;
+          }
+      }
+  }
 }/*fim menu active*/

@@ -13,5 +13,16 @@
 </head>
 <body>
   <?php include_once "includes/nav.php" ?>
+
+  <script language="JavaScript" type="text/javascript">
+function navin(){
+    classe = document.getElementById('btnabre').className;
+    if(classe == 'menuactive'){
+       document.getElementById('btnabre').className = 'menuactive';
+   }else{
+       document.getElementById('btnabre').className = 'menuactive';
+   }
+}
+</script>
 </body>
 </html>
