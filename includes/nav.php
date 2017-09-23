@@ -12,7 +12,7 @@
       <a href="#" onclick="navin();">Menu<i class="fa fa-bars"></i></a>
     </div><!-- topo -->
     <div id="btnabre" class="menu">
-      <div class="topo-menu"><a href="#">Fechar<i class="fa fa-remove"></i></a></div>
+      <div class="topo-menu"><a href="#" onclick="navout();">Fechar<i class="fa fa-remove"></i></a></div>
       <div class="menu-itens">
         <a href="#">Início</a>
         <a href="#">Sobre</a>
