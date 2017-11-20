@@ -647,6 +647,14 @@
   background-color: #2196F3 !important;
 }
 
+.blue-lpwd{
+  background-color: #3ba1db !important;
+}
+
+.blue-lpwd-text{
+  color: #3ba1db !important;
+}
+
 .blue-text {
   color: #2196F3 !important;
 }
@@ -4335,6 +4343,7 @@ nav .brand-logo {
   display: inline-block;
   font-size: 2.1rem;
   padding: 0;
+  padding-top:10px;
 }
 
 nav .brand-logo.center {

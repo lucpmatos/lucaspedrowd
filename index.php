@@ -31,24 +31,37 @@
   </div></li>
   <li><a class="waves-effect" href="#!"><i class="material-icons">home</i>Início</a></li>
   <li><div class="divider"></div></li>
-  <li><a class="waves-effect" href="#!">Sobre Mim</a></li>
-  <li><a class="waves-effect" href="#!">Conhecimentos Técnicos</a></li>
-  <li><a class="waves-effect" href="#!">Portfolio</a></li>
-  <li><a class="waves-effect" href="#!">Serviços</a></li>
-  <li><a class="waves-effect" href="#!">Contato</a></li>
+  <li><a class="waves-effect" href="#!"><i class="material-icons">assessment</i>Conhecimentos Técnicos</a></li>
+  <li><a class="waves-effect" href="#!"><i class="material-icons">book</i>Portfolio</a></li>
+  <li><a class="waves-effect" href="#!"><i class="material-icons">star</i>Serviços</a></li>
+  <li><a class="waves-effect" href="#!"><i class="material-icons">perm_phone_msg</i>Contato</a></li>
+  <li><a class="sidenav-close waves-effect" href="#!"><i class="material-icons">close</i>Fechar</a></li>
   <li><a class="subheader" href="#!">Redes Sociais</a></li>
-  <li><a class="waves-effect" href="#!"><i class="fa fa-facebook"></i> Facebook</a><a href="#!"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
-  <li><a class="sidenav-close waves-effect" href="#!">Fechar</a></li>
+  <li><a class="waves-effect" href="https://www.facebook.com/lucpmatos" target="_blank"><i class="fa fa-facebook"></i> Facebook</a><a class="waves-effect" href="https://www.linkedin.com/in/lucas-pedro-84b574a0/" target="_blank"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
   </ul>
   <!-- sobre -->
   <section class="container">
+    <div class="row" id="sobremim"></div>
     <div class="row">
-      <div class="col s12">
-        <h2>Sobre Mim</h2>
+      <div class="col l6">
+        <img class="responsive-img" src="img/sketch_logo_lp_webdesigner-06.png" alt="Lucas Pedro Web Designer" width="400">
+      </div>
+      <div class="col l6">
+        <div class="card blue-lpwd">
+          <div class="card-content white-text">
+            <span class="card-title">Sobre Mim</span>
+            <p>Sou um Web Designer fascinado pelo mundo criativo tanto no Design Gráfico quanto na Web. Acreditando na integração entre esses dois mundos, dedico meus esforços para transformar a navegação na Web em um lugar mais bonito, intuitivo e de fácil entendimento, rompendo todas as barreiras da distância</p>
+          </div><!-- card content -->
+          <div class="card-action">
+            <a href="https://www.facebook.com/lucpmatos" target="_blank" class="btn white blue-lpwd-text"><i class="fa fa-facebook"></i></a>
+            <a href="https://www.linkedin.com/in/lucas-pedro-84b574a0/" target="_blank" class="btn white blue-lpwd-text"><i class="fa fa-linkedin"></i></a>
+            <a href="" class="btn white blue-lpwd-text">Conhecimentos Técnicos</a>
+          </div><!-- card action -->
+        </div><!-- card -->
       </div>
     </div>
   </section>
-
+  <?php include_once "includes/footer.php" ?>
   <!-- SCRIPTS -->
   <!-- inicialização do sidenav -->
   <script type="text/javascript">
