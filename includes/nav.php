@@ -5,22 +5,16 @@
     <title></title>
   </head>
   <body>
-    <div class="topo">
-      <div class="logo">
-        <img src="img/logo_lp_webdesigner.png" alt="Lucas Pedro Web Designer" height="50">
+    <div class="navbar-fixed">
+      <nav>
+        <div class="nav-wrapper blue darken-1">
+          <a href="#" class="brand-logo center"><img src="img/sketch_logo_lp_webdesigner-07.png" class="navimg" alt="Lucas Pedro Web Designer" height="50"></a>
+          <ul id="nav-mobile" class="left hide-on-med-and-down">
+            <li><a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a></li>
+            <li>Menu</li>
+          </ul>
+        </div>
+      </nav>
       </div>
-      <a href="#" onclick="navin();">Menu<i class="fa fa-bars"></i></a>
-    </div><!-- topo -->
-    <div id="btnabre" class="menu">
-      <div class="topo-menu"><a href="#" onclick="navout();">Fechar<i class="fa fa-remove"></i></a></div>
-      <div class="menu-itens">
-        <a href="#">Início</a>
-        <a href="#">Sobre</a>
-        <a href="#">Serviços</a>
-        <a href="#">Portfolio</a>
-        <a href="#">Conhecimentos Técnicos</a>
-        <a href="#">Contato</a>
-      </div>
-    </div><!-- menu -->
   </body>
 </html>
