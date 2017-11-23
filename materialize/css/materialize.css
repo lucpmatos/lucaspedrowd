@@ -647,14 +647,6 @@
   background-color: #2196F3 !important;
 }
 
-.blue-lpwd{
-  background-color: #3ba1db !important;
-}
-
-.blue-lpwd-text{
-  color: #3ba1db !important;
-}
-
 .blue-text {
   color: #2196F3 !important;
 }
@@ -3213,11 +3205,11 @@ td, th {
 
 .progress {
   position: relative;
-  height: 4px;
+  height: 8px;
   display: block;
   width: 100%;
   background-color: #acece6;
-  border-radius: 2px;
+  border-radius: 5px;
   margin: 0.5rem 0 1rem 0;
   overflow: hidden;
 }
@@ -4343,7 +4335,7 @@ nav .brand-logo {
   display: inline-block;
   font-size: 2.1rem;
   padding: 0;
-  padding-top:10px;
+  padding-top:5px;
 }
 
 nav .brand-logo.center {
