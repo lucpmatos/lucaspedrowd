@@ -12,9 +12,9 @@
           <div class="col l2"></div>
           <div class="col l8">
             <br><br><br>
-            <i class="medium material-icons white-text">assessment</i>
-            <h1 class="white-text">Conhecimentos Técnicos</h1>
-            <p class="white-text">“Não é o diploma que forma profissionais. Só o amor à profissão pode fazê-lo, mesmo àqueles que não tiveram a instrução formal das faculdades.” - Jacqueline Collodo Gomes</p>
+            <i class="medium material-icons white-text">book</i>
+            <h1 class="white-text">Portfolio</h1>
+            <p class="white-text">“Bem feito é melhor que bem dito.” – Benjamin Franklin</p>
           </div>
           <div class="col l2"></div>
         </div>

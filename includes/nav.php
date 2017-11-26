@@ -29,7 +29,7 @@
       <li><a class="waves-effect" href="index.php"><i class="material-icons">home</i>Início</a></li>
       <li><div class="divider"></div></li>
       <li><a class="waves-effect" href="conhecimentostecnicos.php"><i class="material-icons">assessment</i>Conhecimentos Técnicos</a></li>
-      <li><a class="waves-effect" href="#!"><i class="material-icons">book</i>Portfolio</a></li>
+      <li><a class="waves-effect" href="portfolio.php"><i class="material-icons">book</i>Portfolio</a></li>
       <li><a class="waves-effect" href="#!"><i class="material-icons">star</i>Serviços</a></li>
       <li><a class="waves-effect" href="#!"><i class="material-icons">perm_phone_msg</i>Contato</a></li>
       <li><a class="sidenav-close waves-effect" href="#!"><i class="material-icons">close</i>Fechar</a></li>

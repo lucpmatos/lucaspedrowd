@@ -5,7 +5,7 @@
   <title>Lucas Pedro Web Designer</title>
   <link rel="icon" href="img/icon_lp_webdesigner.png" type="image/x-icon" />
   <!-- ESTILO -->
-  <link rel="stylesheet" type="text/css" href="css/css/main.css">
+  <link rel="stylesheet" type="text/css" href="css/css/mixins.css">
   <!-- FONT AWESOME -->
   <link rel="stylesheet" href="font-awesome/css/font-awesome.css">
   <!-- JQUERY -->
@@ -230,6 +230,12 @@
       fullWidth: true,
       indicators: true
     });
+  </script>
+  <!-- inicialização dos dialogs -->
+  <script type="text/javascript">
+    $(document).ready(function(){
+    $('.tooltipped').tooltip({delay: 50});
+  });
   </script>
 </body>
 </html>
