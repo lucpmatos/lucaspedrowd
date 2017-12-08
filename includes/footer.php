@@ -24,8 +24,8 @@
                   <ul>
                     <li><a class="grey-text text-lighten-3" href="index.php">Início</a></li>
                     <li><a class="grey-text text-lighten-3" href="conhecimentostecnicos.php">Conhecimentos Técnicos</a></li>
-                    <li><a class="grey-text text-lighten-3" href="#!">Portfolio</a></li>
-                    <li><a class="grey-text text-lighten-3" href="#!">Serviços</a></li>
+                    <li><a class="grey-text text-lighten-3" href="portfolio.php">Portfolio</a></li>
+                    <li><a class="grey-text text-lighten-3" href="servicos.php">Serviços</a></li>
                     <li><a class="grey-text text-lighten-3" href="#!">Contato</a></li>
                   </ul>
                 </div>

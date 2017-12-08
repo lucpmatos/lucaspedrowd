@@ -68,5 +68,11 @@
     $('.tooltipped').tooltip({delay: 50});
   });
   </script>
+  <!-- inicialização media -->
+  <script type="text/javascript">
+  $(document).ready(function(){
+    $('.materialboxed').materialbox();
+  });
+  </script>
 </body>
 </html>
