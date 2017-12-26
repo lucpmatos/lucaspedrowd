@@ -11,7 +11,6 @@
 
   gtag('config', 'UA-106826102-1');
 </script>
->>>>>>> 39fde6f265fa9fd5bb2fcf6858ec313ad6ba9a2c
   <meta charset="utf-8">
   <title>Lucas Pedro Web Designer</title>
   <link rel="icon" href="img/icon_lp_webdesigner.png" type="image/x-icon" />
