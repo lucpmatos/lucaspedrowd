@@ -10,7 +10,7 @@
         <div class="nav-wrapper white">
           <a href="index.php" class="brand-logo center"><img src="img/sketch_logo_lp_webdesigner-06.png" class="navimg" alt="Lucas Pedro Web Designer" height="40"></a>
           <ul id="nav-mobile" class="left hide-on-med-and-down blue-lpwd-text">
-            <li><a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons blue-lpwd-text">menu</i></a></li>
+            <li><a href="#" data-target="slide-out" class="sidenav-trigger btn-floating pulse blue-lpwd"><i class="material-icons white-text">menu</i></a></li>
             <li>Menu</li>
           </ul>
         </div>
@@ -30,7 +30,7 @@
       <li><div class="divider"></div></li>
       <li><a class="waves-effect" href="conhecimentostecnicos.php"><i class="material-icons">assessment</i>Conhecimentos Técnicos</a></li>
       <li><a class="waves-effect" href="portfolio.php"><i class="material-icons">book</i>Portfolio</a></li>
-      <li><a class="waves-effect" href="#!"><i class="material-icons">star</i>Serviços</a></li>
+      <li><a class="waves-effect" href="servicos.php"><i class="material-icons">star</i>Serviços</a></li>
       <li><a class="waves-effect" href="#!"><i class="material-icons">perm_phone_msg</i>Contato</a></li>
       <li><a class="sidenav-close waves-effect" href="#!"><i class="material-icons">close</i>Fechar</a></li>
       <li><a class="subheader" href="#!">Redes Sociais</a></li>

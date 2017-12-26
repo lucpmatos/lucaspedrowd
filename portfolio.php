@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106826102-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-106826102-1');
+</script>
   <meta charset="utf-8">
   <title>Lucas Pedro Web Designer</title>
   <link rel="icon" href="img/icon_lp_webdesigner.png" type="image/x-icon" />
@@ -86,9 +95,124 @@
                   </div>
                 </div>
               </div>
+              <div class="row">
+                <div class="col l6">
+                  <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light">
+                      <img class="activator" src="img/portfolio3.0.jpg">
+                    </div>
+                    <div class="card-content">
+                      <span class="card-title activator grey-text text-darken-4">Medilab Sistemas<i class="material-icons right">view_module</i></span>
+                      <p><a href="#" target="_blank">Visite o site</a></p>
+                    </div>
+                    <div class="card-reveal">
+                      <span class="card-title grey-text text-darken-4">Medilab Sistemas<i class="material-icons right">close</i></span>
+                      <p>Jobs realizados:</p>
+                      <div class="row"></div>
+                      <div class="row">
+                        <div class="col s4">
+                          <img class="responsive-img materialboxed" src="img/portfolio3.1.jpg" alt="">
+                        </div>
+                        <div class="col s4"><img class="responsive-img materialboxed" src="img/portfolio3.2.png" alt=""></div>
+                        <div class="col s4"></div>
+                      </div>
+                    </div>
+                  </div><!-- card -->
+                </div><!-- col -->
+                <div class="col l6">
+                  <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light">
+                      <img class="activator" src="img/portfolio4.0.jpg">
+                    </div>
+                    <div class="card-content">
+                      <span class="card-title activator grey-text text-darken-4">Nicollit & Scarpi<i class="material-icons right">view_module</i></span>
+                      <p><a href="#" target="_blank">Visite o site</a></p>
+                    </div>
+                    <div class="card-reveal">
+                      <span class="card-title grey-text text-darken-4">Nicollit & Scarpi<i class="material-icons right">close</i></span>
+                      <p>Jobs realizados:</p>
+                      <div class="row"></div>
+                      <div class="row">
+                        <div class="col s4"><img class="responsive-img materialboxed" src="img/portfolio4.0.jpg" alt=""></div>
+                        <div class="col s4"><img class="responsive-img materialboxed" src="img/portfolio4.1.jpg" alt=""></div>
+                        <div class="col s4"><img class="responsive-img materialboxed" src="img/portfolio4.2.jpg" alt=""></div>
+                      </div>
+                    </div>
+                  </div><!-- card -->
+                </div><!-- col -->
+              </div><!-- row -->
+              <div class="row">
+                <div class="col l6">
+                  <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light">
+                      <img class="activator" src="img/portfolio5.0.jpg">
+                    </div>
+                    <div class="card-content">
+                      <span class="card-title activator grey-text text-darken-4">Sophia Almeida<i class="material-icons right">view_module</i></span>
+                      <p><a href="#" target="_blank">Visite o site</a></p>
+                    </div>
+                    <div class="card-reveal">
+                      <span class="card-title grey-text text-darken-4">Sophia Almeida<i class="material-icons right">close</i></span>
+                      <p>Jobs realizados:</p>
+                      <div class="row"></div>
+                      <div class="row">
+                        <div class="col s4"><img class="responsive-img materialboxed" src="img/portfolio5.0.jpg" alt=""></div>
+                        <div class="col s4"></div>
+                        <div class="col s4"></div>
+                      </div>
+                    </div>
+                  </div><!-- card -->
+                </div><!-- col -->
+                <div class="col l6"></div><!-- col -->
+              </div>
             </div>
-            <div id="test5">Web</div>
-            <div id="test6">Test 3</div>
+            <div id="test5">
+              <div class="row">
+                <div class="col l6">
+                  <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light">
+                      <img class="activator" src="img/portfolio6.1.jpg">
+                    </div>
+                    <div class="card-content">
+                      <span class="card-title activator grey-text text-darken-4">Medilab Sistemas<i class="material-icons right">view_module</i></span>
+                      <p><a href="http://medilab.net.br/" target="_blank">Visite o site</a></p>
+                    </div>
+                    <div class="card-reveal">
+                      <span class="card-title grey-text text-darken-4">Medilab Sistemas<i class="material-icons right">close</i></span>
+                      <p>Jobs realizados:</p>
+                      <div class="row"></div>
+                      <div class="row">
+                        <div class="col s4"><img class="responsive-img materialboxed" src="img/portfolio6.1.jpg" alt=""></div>
+                        <div class="col s4"></div>
+                        <div class="col s4"></div>
+                      </div>
+                    </div>
+                  </div><!-- card -->
+                </div><!-- col -->
+                <div class="col l6">
+                  <div class="card">
+                    <div class="card-image waves-effect waves-block waves-light">
+                      <img class="activator" src="img/portfolio7.0.jpg">
+                    </div>
+                    <div class="card-content">
+                      <span class="card-title activator grey-text text-darken-4">BeSafe Corretora<i class="material-icons right">view_module</i></span>
+                      <p><a href="http://besafecorretora.com/" target="_blank">Visite o site</a></p>
+                    </div>
+                    <div class="card-reveal">
+                      <span class="card-title grey-text text-darken-4">BeSafe Corretora<i class="material-icons right">close</i></span>
+                      <p>Jobs realizados:</p>
+                      <div class="row"></div>
+                      <div class="row">
+                        <div class="col s4"><img class="responsive-img materialboxed" src="img/portfolio7.0.jpg" alt=""></div>
+                        <div class="col s4"></div>
+                        <div class="col s4"></div>
+                      </div>
+                    </div>
+                  </div><!-- card -->
+                </div><!-- col -->
+              </div><!-- row -->
+            </div>
+            <div id="test6">Nada consta aqui ainda... :(</div>
           </div>
         </div>
       </div>
