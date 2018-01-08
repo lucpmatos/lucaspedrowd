@@ -46,13 +46,13 @@
             <div class="center"><h5 class="white-text">Plano HTML</h5></div>
           </div><!-- box header -->
           <div class="box-subtitulo-grey center">
-            <p>Entrada R$ 1.200,00</p>
-            <h4>R$ 100/mês</h4>
+            <p>Desenvolvimento: R$ 1.200,00</p>
+            <h4><div style="font-size:18px;">Suporte (opcional):</div> R$ 90/mês</h4><br>
           </div><!-- box subtitulo -->
           <div class="box-content-grey center">
             <h5>Suporte Total:</h5>
-            <p>Conta de e-mail</p>
-            <p>Manutenção</p>
+            <p>Contas de e-mail ILIMITADAS</p>
+            <p>Manutenção Completa</p>
             <p>Hospedagem</p>
             <p>Design Exclusivo</p>
           </div><!-- box content -->
@@ -67,8 +67,8 @@
             <div class="center"><h5 class="white-text">Plano CMS</h5></div>
           </div><!-- box header -->
           <div class="box-subtitulo-blue center">
-            <p>Entrada R$ 1.500,00</p>
-            <h4>R$ 150/mês</h4>
+            <p>Desenvolvimento: R$ 1.500,00</p>
+            <h4><div style="font-size:18px;">Suporte (opcional):</div> R$ 130/mês</h4><br>
           </div><!-- box subtitulo -->
           <div class="box-content-blue center">
             <h5>Suporte Total<br>+<br>CMS</h5>
@@ -85,8 +85,8 @@
             <div class="center"><h5 class="white-text">Plano Premium</h5></div>
           </div><!-- box header -->
           <div class="box-subtitulo-grey center">
-            <p>Entrada R$ 1.800,00</p>
-            <h4>R$ 200/mês</h4>
+            <p>Desenvolvimento: R$ 1.800,00</p>
+            <h4><div style="font-size:18px;">Suporte (opcional):</div> R$ 180/mês</h4><br>
           </div><!-- box subtitulo -->
           <div class="box-content-grey center">
             <h5>Suporte Total<br>+<br>CMS<br>+<br>Loja Virtual</h5>
