@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-<<<<<<< HEAD
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106826102-1"></script>
 <script>
@@ -57,7 +56,7 @@
             <p>Design Exclusivo</p>
           </div><!-- box content -->
           <div class="box-bottom-grey center">
-            <a class="waves-effect btn col l12 grey-lpwd">Solicite</a>
+            <a class="waves-effect btn col l12 grey-lpwd" href="https://goo.gl/forms/ZgSld3X7hVMdSB1H3" target="_blank">Solicite</a>
           </div><!-- box bottom -->
         </div><!-- box total -->
       </div>
@@ -75,7 +74,7 @@
             <p>(Wordpress)</p>
           </div><!-- box content -->
           <div class="box-bottom-blue center">
-            <a class="waves-effect btn col l12 blue-lpwd">Solicite</a>
+            <a class="waves-effect btn col l12 blue-lpwd" href="https://goo.gl/forms/ZgSld3X7hVMdSB1H3" target="_blank">Solicite</a>
           </div><!-- box bottom -->
         </div><!-- box total -->
       </div>
@@ -93,14 +92,14 @@
             <p>(Wordpress + WooCommerce)</p>
           </div><!-- box content -->
           <div class="box-bottom-grey center">
-            <a class="waves-effect btn col l12 grey-lpwd">Solicite</a>
+            <a class="waves-effect btn col l12 grey-lpwd" href="https://goo.gl/forms/ZgSld3X7hVMdSB1H3" target="_blank">Solicite</a>
           </div><!-- box bottom -->
         </div><!-- box total -->
       </div>
     </div><!-- row -->
     <div class="row center">
       <p>Para desenvolvimento de sistemas entre em contato e faça seu orçamento:</p>
-      <a class="waves-effect btn blue-lpwd">Orçamento</a>
+      <a class="waves-effect btn blue-lpwd" href="https://goo.gl/forms/lIP3kttz9pMyRqev2" target="_blank">Orçamento</a>
     </div>
   </section>
   <section class="container">

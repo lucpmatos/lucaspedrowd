@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-<<<<<<< HEAD
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106826102-1"></script>
 <script>
@@ -35,7 +34,7 @@
       <h1><i class="large material-icons">perm_phone_msg</i><br>Contato</h1>
     </div><!-- row center -->
     <div class="row">
-      <form class="col s12">
+      <!--<form class="col s12">
       <div class="row">
         <div class="input-field col s6">
           <input id="nome" type="text" class="validate">
@@ -73,9 +72,9 @@
           <input type="submit" value="Enviar" class="waves-effect btn blue-lpwd">
         </div>
       </div>
-    </form>
-    </div><!-- row -->
-  </section><!-- container -->
+    </form>-->
+  </div><!-- row -->
+</section><!-- container -->
   <?php include_once "includes/footer.php" ?>
   <!-- SCRIPTS -->
   <!-- inicialização do sidenav -->

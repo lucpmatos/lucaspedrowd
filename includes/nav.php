@@ -31,7 +31,7 @@
       <li><a class="waves-effect" href="conhecimentostecnicos.php"><i class="material-icons">assessment</i>Conhecimentos Técnicos</a></li>
       <li><a class="waves-effect" href="portfolio.php"><i class="material-icons">book</i>Portfolio</a></li>
       <li><a class="waves-effect" href="servicos.php"><i class="material-icons">star</i>Serviços</a></li>
-      <li><a class="waves-effect" href="contato.php"><i class="material-icons">perm_phone_msg</i>Contato</a></li>
+      <li><a class="waves-effect" href="https://goo.gl/forms/lIP3kttz9pMyRqev2" target="_blank"><i class="material-icons">perm_phone_msg</i>Contato</a></li>
       <li><a class="sidenav-close waves-effect" href="#!"><i class="material-icons">close</i>Fechar</a></li>
       <li><a class="subheader" href="#!">Redes Sociais</a></li>
       <li><a class="waves-effect" href="https://www.facebook.com/lucpmatos" target="_blank"><i class="fa fa-facebook"></i> Facebook</a><a class="waves-effect" href="https://www.linkedin.com/in/lucas-pedro-84b574a0/" target="_blank"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
