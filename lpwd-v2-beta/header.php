@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <title>Lucas Pedro Web Designer</title>
+        <!-- icone -->
+        <link rel="icon" href="img/icon_lp_webdesigner.png" type="image/x-icon" />
+        <!--
+        usar icones personalizados no FONTELLO: Material Icons em outline
+        -->
+        <!-- jquery -->
+        <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+    </head>
+    <body>
