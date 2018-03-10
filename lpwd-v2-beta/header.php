@@ -10,7 +10,12 @@
         <!--
         usar icones personalizados no FONTELLO: Material Icons em outline
         -->
+				<!-- bootstrap 4.0 -->
+				<link rel="stylesheet" href="css/bootstrap/bootstrap-grid.min.css">
+				<script type="text/javascript" src="js/bootstrap/bootstrap.min.js"></script>
         <!-- jquery -->
         <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+				<!-- estilo -->
+				<link rel="stylesheet" href="css/mixins.css">
     </head>
     <body>
