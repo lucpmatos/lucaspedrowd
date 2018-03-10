@@ -10,6 +10,8 @@
         <!--
         usar icones personalizados no FONTELLO: Material Icons em outline
         -->
+				<!-- FontAwesome -->
+				<link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
 				<!-- bootstrap 4.0 -->
 				<link rel="stylesheet" href="css/bootstrap/bootstrap-grid.min.css">
 				<script type="text/javascript" src="js/bootstrap/bootstrap.min.js"></script>
