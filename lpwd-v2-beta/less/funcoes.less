@@ -1,26 +1,26 @@
 /* Fonte */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600');
-
-@OpenSans:'Open Sans', sans-serif;
+@OpenSans: 'Open Sans', sans-serif;
 
 /* Setup da fonte padrão */
-.setFont(@size:16px, @color:@preto, @font-face:@OpenSans){
-  font-size:@size;
-  color:@color;
-  font-family:@OpenSans;
+
+.setFont(@size:16px, @color:@preto, @font-face:@OpenSans) {
+	font-size: @size;
+	color: @color;
+	font-family: @OpenSans;
 }
 
 /* Setup para Font Awesome */
-.setFontAwe(@size:16px, @color:@preto){
-  font-size:@size;
-  color:@color;
+.setFontAwe(@size:16px, @color:@preto) {
+	font-size: @size;
+	color: @color;
 }
 
 /* Transição */
 .transition (@prop: all, @time: 0.25s, @ease: ease-in-out) {
-  -webkit-transition: @prop @time @ease;
-  -moz-transition: @prop @time @ease;
-  -o-transition: @prop @time @ease;
-  -ms-transition: @prop @time @ease;
-  transition: @prop @time @ease;
+	-webkit-transition: @prop @time @ease;
+	-moz-transition: @prop @time @ease;
+	-o-transition: @prop @time @ease;
+	-ms-transition: @prop @time @ease;
+	transition: @prop @time @ease;
 }
